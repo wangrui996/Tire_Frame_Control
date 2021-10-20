@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=WXY31_B_IN Pin=J12-1
+Removed Pin From Net: NetName=WXY31_A_IN Pin=J12-2
+Added Pin To Net: NetName=WXY31_A_IN Pin=J12-1
+Added Pin To Net: NetName=WXY31_B_IN Pin=J12-2

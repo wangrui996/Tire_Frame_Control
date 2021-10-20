@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=WXY31_A_IN Pin=1-23
+Removed Pin From Net: NetName=WXY31_B_IN Pin=1-24
+Added Pin To Net: NetName=WXY31_A_OUT Pin=1-23
+Added Pin To Net: NetName=WXY31_B_OUT Pin=1-24

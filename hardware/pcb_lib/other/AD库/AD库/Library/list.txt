@@ -1,0 +1,438 @@
+原理图封装列表
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+74ACT573T           双向数据传输
+74HC138             138译码器
+74HC154             4-16译码器
+74HC4052            双通道模拟开关
+74HC595             移位寄存器
+74HVC32M            双输入或门
+74LS32M             双输入或门
+74VHC04M            非门
+ACS712              电流检测芯片
+ACT45B              共模电感
+AD5235              数控电阻
+AD8251              可控增益运放
+AD8607AR            双运放
+AD8667              双运放
+AD8672AR            双运放
+ADG836L             双刀双掷数字开关
+AFBR-5803-ATQZ      光以太网
+AS1015              可调升压芯片
+ASM1117             3.3V稳压芯片
+AT24C02             EEROM存储器
+AT89S52             51系列单片机
+BC57F687            蓝牙音频模块
+BCP68               NPN三极管
+BCP69T              PNP三极管
+BEEP                蜂鸣器
+BMP                 闪电符号
+BTS7970             电机驱动
+Battery             备份电池
+Butterfly           功率激光器
+Butterfly-S         功率激光器
+CD4052BCM           双通道模拟开关
+CG103               BOSCH点火芯片
+CHECK               测试点
+CY7C026AV           RAM
+CY7C1041CV33        RAM
+Cap                 无极性电容
+Cap Pol             极性电解电容
+D Connector 15      VGA
+D Connector 9       串口
+D-Schottky          肖特基二极管
+DAC8532             数模转换
+DM9000A             网络芯片
+DM9000C             网络芯片
+DP83848I            网络芯片
+DPY-4CA             共阳4位数码管
+DPY-4CK             共阴4位数码管
+DRV411              闭环磁电流
+DS1307Z             实时时钟
+DS18B20             温度传感器
+Diode               二极管
+Diode-Z             稳压二极管
+Diode_CRD           恒流二极管
+EMIF                接插件
+FIN                 散热片
+FM24CL16            铁电存储器
+FPC-30P             FPC排线连接器
+FPC-40P             FPC排线连接器
+FT232RL             USB转串口
+FZT869              NPN三极管
+Fuse 2              保险丝
+G3VM-61             半导体继电器
+GA240               Freescale16位单片机
+HFBR-1414           光发送
+HFBR-2412           光接收
+HFKC                单刀双掷继电器
+HK4100F             单刀双掷继电器
+HR911103A           网络接口
+HR911105A           以太网接口
+HS0038B             红外接收器
+Header 10           Header, 10-Pin
+Header 10X2         Header, 10-Pin
+Header 14X2B        2*14双排插针
+Header 16           Header16贴片
+Header 16X2         接插件
+Header 2            接插件
+Header 2X2A         接插件
+Header 2X2B         接插件
+Header 3            接插件
+Header 32X2         接插件
+Header 4            接插件
+Header 40           接插件
+Header 5X2          接插件
+Header 6            接插件
+Header 7X2          Header, 7-Pin
+Header 8            Header, 8-Pin
+Header 8X2A         接插件
+Header_AMP50        控制器接插件
+IS61LV51216         静态RAM
+ISO7221             隔离芯片
+Inductor            电感
+JoyStick            模拟摇杆
+L298                ST双电桥
+L5150BN             5V稳压芯片
+LCD_CON37           LCD接口
+LD-6.0mm            5MW激光
+LD-MOD              激光调制管
+LED-RGB             三基色LED
+LED0                发光二极管
+LED1                双色LED
+LM2577S-ADJ         DC升压
+LM2577T-ADJ         DC升压
+LM2596S-5.0         5V稳压芯片
+LM2596S-ADJ         可调稳压芯片
+LM2596T-5.0         5V稳压芯片
+LM2596T-ADJ         可调稳压芯片
+LM2940              5V稳压芯片
+LM2940CT-5.0        1A 5V
+LM2991S             稳压芯片
+LM317               稳压芯片
+LM324               4运放SOP8芯片
+LM358               双运放
+LM7171              单运放
+LM7818CT            Series 3-Terminal Positive Regulator
+LM7905CT            稳压芯片
+LMV951              超低功耗运放
+LOG114              光电检测
+LT1678              双运放
+LTC1044CD           Switched-Capacitor Voltage Converter
+LTC6652             电压基准
+M95640              
+MAX11046ECB+        AD转换
+MAX232              +5V Powered, Multi-Channel RS-232 Driver/Receiver
+MAX3221             串口电平转换
+MAX4173             高端电流检测
+MAX6126             电压基准
+MAX660CSA           -5V电源芯片
+MAX8069             1.2V稳压二极管
+MAX8654             
+MC33789             飞思卡尔传感器
+MC9S12GXX           飞思卡尔单片机
+MC9S12X             飞思卡尔单片机
+MOSFET-N            N-Channel MOSFET
+MOSFET-P            P-Channel MOSFET
+MPC5602_64P         Freescale PowerPC
+Mic2                Microphone
+PD                  光电二极管
+PESD1CAN            过压保护
+PJ-306              立体声耳机插座
+PR_8                8排直播排电阻
+PWRCON              直流电源端子
+RCA                 RCA Phono Jack
+RPot                精密可调电阻
+RUE002N02           低功耗MOSFET
+Res1                贴片电阻
+S8050               NPN三极管
+S8550               PNP三极管
+S9014               NPN三极管
+SC040               语音
+SDCARD              SD卡自弹
+SDCARD-M            TF卡槽
+SMB460              SMB460
+SMB492              外围加速度传感器
+SN65HVD230          CAN芯片
+SN74LVC             
+SN74LVTH245         双向数据传输
+SN75452             Dual Peripheral Driver
+SP3485              485总线芯片
+SPX1117M3-3.3       3.3V稳压芯片
+SPX1117M3-5.0       5.0V稳压芯片
+SS8050              NPN贴片三极管
+SS8550              PNP贴片三极管
+SS9014              NPN贴片三极管
+ST188               反射式光电传感器
+STM32F103C          STM32单片机48引脚
+STM32F103V          STM32单片机100引脚
+STM32F103Z          STM32单片机144引脚
+STM32F105V          STM32单片机100引脚
+STM32F107V          STM32单片机100引脚
+STM32F407V          STM32单片机100引脚
+STM32F407Z          STM32单片机144引脚
+SW DIP-4            编码开关
+SW-DIP8             8位直插拨码开关
+SW-DPDT             单刀双掷开关
+SW-EC11             旋转编码开关
+SW-PB               微动开关
+SW-PB4              微动开关
+SW-SPDT             开关
+Speaker             Speaker
+TL082ACD            JFET-Input Operational Amplifier
+TLP281              光耦
+TMR                 隧道磁电阻
+TMS320F28335        DSP芯片
+TOSA                激光器
+TP4056              锂电池充电管理
+TPS3305             DSP电源管理
+TPS6735             负电压芯片
+TPS70302            DSP电源芯片
+TQ2SA               单通道继电器
+TQ2SA-L2            双通道双稳态继电器
+TSC2046IPW          触摸驱动芯片
+TVP5150AM1          视频解码芯片
+TVS                 TVS保护
+ULN2003L            驱动芯片
+USB                 USB接口
+USB_M               MicroUSB接口
+VS10XX              音频解码芯片
+W25QXX              SPI FLASH
+XATLS               贴片有源晶振
+XTAL                晶振
+XTAL-3PIN           贴片晶振
+XTAL_SM             圆柱晶振
+
+PCB封装列表
+Component Name
+-----------------------------------------------
+
+0603-1
+0603-2
+0805-1
+0805-2
+1206
+1210
+1812
+2010
+2512
+AFBR-5803AQZ
+AXIAL-0.8
+AXIAL-0.9
+Beep
+C-RAD
+C-RAD-0603
+C-RAD-0805
+C-RAD-1825
+C-RAD-3528
+C-RB-8
+C-RB-10
+C-RB-12
+C-RB-18
+C-RB-S6
+C-RB-S8
+C-RB-S10
+CAP-1206
+CAP-3216
+CAP-3528
+CAP-6032
+CAP-7343
+CHECK-A
+CHECK-B
+CR1220
+DB9-F
+DB9-M
+DB15-F
+DB15-M
+DC-002
+DC-005
+DIODE-1206
+DIODE-AXL
+DIODE-SMA
+DIODE-SMB
+DIODE-SMC
+DIP-40
+DIP16
+DIP16-KEY
+DIP24
+DW024_N
+DYP-4BIT
+EC11
+FIN-P2
+FPC0.5-40P-A
+FPC0.8-30P-A
+FPC1.0-16P-A
+HDR_ENG1
+HDR_ENG2
+HDR2X1_A
+HDR2X1_B1
+HDR2X1_B2
+HDR2X1_B3
+HDR2X1_C
+HDR2X1_D1
+HDR2X2_A
+HDR2X2_B
+HDR3X1_A
+HDR3X1_B1
+HDR3X1_B2
+HDR3X1_B4
+HDR3X1_C
+HDR3X1_D1
+HDR3X1_D2
+HDR3X2_A1_2.0
+HDR3X2_A2_2.0
+HDR4X1_A
+HDR4X1_B1
+HDR4X1_B2
+HDR4X1_C
+HDR4X1_F
+HDR4X2_F2
+HDR5X2_A1
+HDR5X2_A3
+HDR5X2_B1
+HDR5X2_B1_2.0
+HDR5X2_C2
+HDR6X1_A
+HDR6X1_B1
+HDR6X1_B2
+HDR7X2_A1
+HDR7X2_B1
+HDR7X2_B1_2.0
+HDR8X2_A1
+HDR8X2_E1
+HDR9X1_A
+HDR10X2_A1
+HDR10X2_B1
+HDR10X2_B1_2.0
+HDR14X2_A1
+HDR14X2_A2
+HDR16X1_A
+HDR16X2
+HDR16X2-HB
+HDR16X3_HA
+HDR16X3_HB
+HDR25X2_B1_2.0
+HDR25X2_H
+HDR32X2_HA
+HDR32X2_HB
+HDR34_BT
+HDR37X1_F
+HDR40X1_A
+HDR192_C_2.0
+HFBR-X41XMZ
+HFKC
+HK4100F
+HS0038B
+JoyStick
+L-RB-8
+L-RB-8F
+L-SMD-7
+L-SMD-10
+L-SMD-12
+L-TDK
+LD-4P
+LD-6.0
+LD-MOD
+LED_0805
+LED_A1
+LED_A2
+LED_A3
+LED-3528
+LED-RGB
+LOGO_Thunder
+LOGO-3S
+LQFP-32_M
+LQFP-48_M
+LQFP-64
+LQFP-64_EP
+LQFP-100_M
+LQFP-176_M
+MSOP-MS8_M
+MSOP-UN10_N
+Multiwatt15-H
+Multiwatt15-V
+NSO8_N
+NSO8_TP4056
+NSO16_M
+PD
+PDSO-G8
+PH2.0-8P
+PH2.0-10P
+PIN2
+PJ-306
+PJ-315-B
+PW016
+QFN-16
+RCA/4.5-H2
+RCJ-04X
+RJ8-1
+RJ8-2
+RJ8-HR911103A
+RJ8-HR911105A
+RJ8-HR911105B
+SDCARD_A
+SDCARD_B
+SDCARD-M
+SO20_M
+SOIC8_N
+SOIC8_W
+SOIC127P610X175-8N
+SOIC127P1050X265-16N
+SOP-14N
+SOP-20
+SOP16-50-208
+SOP127P710X350-4N
+SOP254P1150X560-10N
+SOT-23
+SOT-223
+SOT-416
+SOT23-6
+SOT254P-6
+SSOP-28
+ST188
+SW_PB2_A1
+SW_PB2_B1
+SW_PB2_C1
+SW_PB4_A1
+SW8_4BIT
+SWITCH_A1
+SWITCH_A2
+SWITCH_A3
+SWITCH_B1
+T03B
+T05A
+T05D
+TO-92A
+TO-220AB
+TO-252
+TO-263-3
+TO-263-5
+TO-263-7
+TQFP-32
+TQFP48_N
+TQFP64_EP
+TQFP100_M
+TQFP144_N
+TSOP-44N
+TSSOP-8
+TSSOP16_M
+TSSOP20
+TSSOP20P_M
+TSSOP24P
+USB_A1
+USB_AA1
+USB_B1
+USB_C1
+USB_MICRO
+VFQN36_V
+VR_A1
+VR_A2
+VR_B1
+X-CPX20
+X-CPX75
+X-HC49U
+X-SM49
+X-TC15
+X-TC26

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=JP1-1
+Removed Pin From Net: NetName=WXY31_A_IN Pin=JP1-2
+Removed Pin From Net: NetName=WXY31_B_IN Pin=JP1-3
+Removed Pin From Net: NetName=GND Pin=JP1-4
+Removed Member From Class: ClassName=Zigbee Member=JP1
+Added Component: Designator=J12(HEADER_2P_3.5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J13(HEADER_2P_3.5mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=WXY31_B_IN Pin=J12-1
+Added Pin To Net: NetName=WXY31_A_IN Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J13-1
+Added Pin To Net: NetName=5V Pin=J13-2
+Added Member To Class: ClassName=Zigbee Member=Component J12 COM_2
+Added Member To Class: ClassName=Zigbee Member=Component J13 COM_2

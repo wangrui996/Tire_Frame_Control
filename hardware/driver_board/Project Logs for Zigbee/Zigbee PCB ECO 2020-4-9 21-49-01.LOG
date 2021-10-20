@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetJP6_1 Pin=JP6-1
+Change Component Footprint: Designator=JP6 Old Footprint=header2 New Footprint=DG128-3
+Added Component: Designator=J1(HEADER_2P_3.5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(HEADER_2P_3.5mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=0-10V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=0-10V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=JP6-1
+Added Pin To Net: NetName=NetJP6_1 Pin=JP6-3
+Change Net Name : Old Net Name=NetJP6_1 New Net Name=NetJP6_3
+Added Member To Class: ClassName=Zigbee Member=Component J1 COM_2
+Added Member To Class: ClassName=Zigbee Member=Component J2 COM_2

@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Documents\元件封装PCB库\元件封装PCB库.LibPkg
+[Project2]
+ProjectPath=Documents\元件原理脚位图库\元件原理脚位图库.LibPkg

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=D8-1
+Removed Pin From Net: NetName=NetD8_2 Pin=D8-2
+Removed Pin From Net: NetName=NetC11_1 Pin=D13-1
+Removed Pin From Net: NetName=NetD8_2 Pin=U4-1
+Removed Member From Class: ClassName=Zigbee Member=D8
+Removed Member From Class: ClassName=Zigbee Member=D13
+Added Pin To Net: NetName=NetD8_2 Pin=D5-1
+Added Pin To Net: NetName=NetD8_2 Pin=R12-1
+Added Pin To Net: NetName=NetC6_1 Pin=U4-1
+Added Pin To Net: NetName=NetC11_1 Pin=U6-1
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD5_1

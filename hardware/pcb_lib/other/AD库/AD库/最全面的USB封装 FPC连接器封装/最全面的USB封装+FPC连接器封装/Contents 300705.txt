@@ -1,0 +1,11 @@
+Altium Limited
+
+
+HRS
+Batch Number 300705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+HRS FPC-FFC FH12 Series.IntLib
+Log300705.txt

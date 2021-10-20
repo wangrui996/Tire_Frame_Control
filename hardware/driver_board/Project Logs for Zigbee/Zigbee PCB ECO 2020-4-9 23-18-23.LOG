@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=48V_MOTOR2 Pin=J9-1
+Removed Pin From Net: NetName=AGND Pin=J9-2
+Removed Pin From Net: NetName=48V_MOTOR1 Pin=K1-4
+Removed Member From Class: ClassName=Zigbee Member=J9
+Added Pin To Net: NetName=48V_MOTOR2 Pin=K1-4
+Change Net Name : Old Net Name=48V_MOTOR2 New Net Name=48V_MOTOR

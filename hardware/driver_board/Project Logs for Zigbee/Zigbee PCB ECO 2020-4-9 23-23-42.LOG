@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DIR_OUT_1 Pin=1-1
+Removed Pin From Net: NetName=DIR_OUT_2 Pin=1-3
+Removed Pin From Net: NetName=EN_OUT_1 Pin=1-4
+Removed Pin From Net: NetName=EN_OUT_2 Pin=1-6
+Removed Pin From Net: NetName=PUL_OUT_1 Pin=1-34
+Removed Pin From Net: NetName=PUL_OUT_2 Pin=1-67
+Added Pin To Net: NetName=DIR_IN_1 Pin=1-1
+Added Pin To Net: NetName=DIR_IN_2 Pin=1-3
+Added Pin To Net: NetName=EN_IN_1 Pin=1-4
+Added Pin To Net: NetName=EN_IN_2 Pin=1-6
+Added Pin To Net: NetName=PUL_IN_1 Pin=1-34
+Added Pin To Net: NetName=PUL_IN_2 Pin=1-67

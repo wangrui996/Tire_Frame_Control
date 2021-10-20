@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=48V_MOTOR Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=48V_MOTOR Pin=K1-4
+Removed Pin From Net: NetName=48V_MOTOR Pin=K2-4
+Added Component: Designator=J9(HEADER_2P_3.5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J11(HEADER_2P_3.5mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=48V_MOTOR Pin=J6-2
+Added Pin To Net: NetName=48V_MOTOR Pin=J9-2
+Added Pin To Net: NetName=48V Pin=J11-1
+Added Pin To Net: NetName=48V_MOTOR Pin=J11-2
+Change Net Name : Old Net Name=48V_MOTOR New Net Name=AGND
+Added Pin To Net: NetName=48V_MOTOR1 Pin=J6-1
+Added Pin To Net: NetName=48V_MOTOR1 Pin=K1-4
+Added Net: Name=48V_MOTOR1
+Added Pin To Net: NetName=48V_MOTOR2 Pin=J9-1
+Added Pin To Net: NetName=48V_MOTOR2 Pin=K2-4
+Added Net: Name=48V_MOTOR2
+Added Member To Class: ClassName=Zigbee Member=Component J9 COM_2
+Added Member To Class: ClassName=Zigbee Member=Component J11 COM_2
